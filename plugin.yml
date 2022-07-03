@@ -1,0 +1,8 @@
+---
+name: BetterAuth
+author: MCPE+PLUGINS
+version: 1.0.0
+main: MCPE_PLUGINS\BetterAuth\Loader
+api: 4.0.0
+src-namespace-prefix: MCPE_PLUGINS\BetterAuth
+...
